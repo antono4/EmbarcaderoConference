@@ -1,7 +1,1 @@
-# Embarcadero Conference Brasil
-
-> **Created by Antono**
-
-Apresentações e Exemplos do Embarcadero Conference - Todas as edições a partir de 2012 !!! <br>
-Para maiores informações sobre o evento: https://embarcaderoconference.com.br/
-
+Last updated: 2026-07-31 15:38:41 WIB
